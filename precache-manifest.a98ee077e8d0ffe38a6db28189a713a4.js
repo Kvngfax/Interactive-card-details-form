@@ -28,12 +28,12 @@ self.__precacheManifest = [
     "url": "/work/static/media/icon-complete.530df842.svg"
   },
   {
-    "revision": "33d6bbef0946f7071752c239b14d4a67",
-    "url": "/work/static/media/bg-card-front.33d6bbef.png"
-  },
-  {
     "revision": "66d8eb6b6b107baf8b8abf4dbecb4e07",
     "url": "/work/static/media/bg-main-desktop.66d8eb6b.png"
+  },
+  {
+    "revision": "33d6bbef0946f7071752c239b14d4a67",
+    "url": "/work/static/media/bg-card-front.33d6bbef.png"
   },
   {
     "revision": "1a41a92ca7b04ab1362f1b2f6bb2a83a",
